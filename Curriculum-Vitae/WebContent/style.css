@@ -1,1 +1,33 @@
 @charset "UTF-8";
+body{
+	background-color:#c3d6dc ;
+}
+
+h1{
+	font-weight: bold;
+}
+h2{
+	background-color:#8ea1a7 ;
+}
+
+p{
+	background-color: #afbec3;
+}
+
+h3{
+	background-color: #9db3b9;
+}
+
+#pie{
+	text-align: right;
+	background-color: white;
+	font-weight: bold;
+}
+span.azul {
+	color:blue;
+}
+
+span.bl {
+	color: blue;
+	font-weight: bold;
+}
